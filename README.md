@@ -27,3 +27,5 @@ This repo is for tracking issues across the biobricks-ai organization
 |[TargetScan](https://github.com/biobricks-ai/TargetScan)|<a href="https://github.com/biobricks-ai/TargetScan/actions"><img src="https://github.com/biobricks-ai/TargetScan/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
 |[UMLS](https://github.com/biobricks-ai/UMLS)|<a href="https://github.com/biobricks-ai/UMLS/actions"><img src="https://github.com/biobricks-ai/UMLS/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
 |[uniprot](https://github.com/biobricks-ai/uniprot)|<a href="https://github.com/biobricks-ai/uniprot/actions"><img src="https://github.com/biobricks-ai/uniprot/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
+|[dbGaP](https://github.com/biobricks-ai/dbGaP)|<a href="https://github.com/biobricks-ai/dbGaP/actions"><img src="https://github.com/biobricks-ai/dbGaP/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
+
