@@ -7,6 +7,7 @@ This repo is for tracking issues across the biobricks-ai organization
 | [clinvar](https://github.com/biobricks-ai/clinvar) | <a href="https://github.com/biobricks-ai/clinvar/actions"><img src="https://github.com/biobricks-ai/clinvar/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
 | [ctdbase](https://github.com/biobricks-ai/ctdbase) | <a href="https://github.com/biobricks-ai/ctdbase/actions"><img src="https://github.com/biobricks-ai/ctdbase/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
 | [ctgov](https://github.com/biobricks-ai/ctgov) | <a href="https://github.com/biobricks-ai/ctgov/actions"><img src="https://github.com/biobricks-ai/ctgov/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
+| [dbGaP](https://github.com/biobricks-ai/dbGaP)|<a href="https://github.com/biobricks-ai/dbGaP/actions"><img src="https://github.com/biobricks-ai/dbGaP/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
 | [dbSNP](https://github.com/biobricks-ai/dbSNP) | <a href="https://github.com/biobricks-ai/dbSNP/actions"><img src="https://github.com/biobricks-ai/dbSNP/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
 | [depmap](https://github.com/biobricks-ai/depmap) | <a href="https://github.com/biobricks-ai/depmap/actions"><img src="https://github.com/biobricks-ai/depmap/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
 | [fda](https://github.com/biobricks-ai/fda) | <a href="https://github.com/biobricks-ai/fda/actions"><img src="https://github.com/biobricks-ai/fda/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
@@ -27,5 +28,3 @@ This repo is for tracking issues across the biobricks-ai organization
 |[TargetScan](https://github.com/biobricks-ai/TargetScan)|<a href="https://github.com/biobricks-ai/TargetScan/actions"><img src="https://github.com/biobricks-ai/TargetScan/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
 |[UMLS](https://github.com/biobricks-ai/UMLS)|<a href="https://github.com/biobricks-ai/UMLS/actions"><img src="https://github.com/biobricks-ai/UMLS/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
 |[uniprot](https://github.com/biobricks-ai/uniprot)|<a href="https://github.com/biobricks-ai/uniprot/actions"><img src="https://github.com/biobricks-ai/uniprot/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
-|[dbGaP](https://github.com/biobricks-ai/dbGaP)|<a href="https://github.com/biobricks-ai/dbGaP/actions"><img src="https://github.com/biobricks-ai/dbGaP/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
-
