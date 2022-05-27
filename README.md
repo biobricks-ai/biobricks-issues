@@ -1,12 +1,11 @@
-This repo is for tracking issues across the biobricks-ai organization
 
-| Brick | Bricktools Check |
-|------------|------------------|
-| [1000_Genomes](https://github.com/biobricks-ai/1000_Genomes) | <a href="https://github.com/biobricks-ai/1000_Genomes/actions"><img src="https://github.com/biobricks-ai/1000_Genomes/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
-| [chembl](https://github.com/biobricks-ai/chembl) | <a href="https://github.com/biobricks-ai/chembl/actions"><img src="https://github.com/biobricks-ai/chembl/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
-| [clinvar](https://github.com/biobricks-ai/clinvar) | <a href="https://github.com/biobricks-ai/clinvar/actions"><img src="https://github.com/biobricks-ai/clinvar/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
-| [ctdbase](https://github.com/biobricks-ai/ctdbase) | <a href="https://github.com/biobricks-ai/ctdbase/actions"><img src="https://github.com/biobricks-ai/ctdbase/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
-| [ctgov](https://github.com/biobricks-ai/ctgov) | <a href="https://github.com/biobricks-ai/ctgov/actions"><img src="https://github.com/biobricks-ai/ctgov/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
+| Brick | Description | Bricktools Check |
+|------------|-----|-----------------|
+| [1000_Genomes](https://github.com/biobricks-ai/1000_Genomes) | The 1000 Genomes Project created a catalogue of common human genetic variation, using openly consented samples from people who declared themselves to be healthy. |<a href="https://github.com/biobricks-ai/1000_Genomes/actions"><img src="https://github.com/biobricks-ai/1000_Genomes/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
+| [chembl](https://github.com/biobricks-ai/chembl) | ChEMBL is a database of bioactive drug-like small molecules |<a href="https://github.com/biobricks-ai/chembl/actions"><img src="https://github.com/biobricks-ai/chembl/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
+| [clinvar](https://github.com/biobricks-ai/clinvar) | ClinVar aggregates information about genomic variation and its relationship to human health. | <a href="https://github.com/biobricks-ai/clinvar/actions"><img src="https://github.com/biobricks-ai/clinvar/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a> |
+| [ctdbase](https://github.com/biobricks-ai/ctdbase) | CTD is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health| <a href="https://github.com/biobricks-ai/ctdbase/actions"><img src="https://github.com/biobricks-ai/ctdbase/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
+| [ctgov](https://github.com/biobricks-ai/ctgov) | ctgov(ClinicalTrials.gov) aggregates information about clinical trials from ClinicalTrials.gov| <a href="https://github.com/biobricks-ai/ctgov/actions"><img src="https://github.com/biobricks-ai/ctgov/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
 | [dbSNP](https://github.com/biobricks-ai/dbSNP) | <a href="https://github.com/biobricks-ai/dbSNP/actions"><img src="https://github.com/biobricks-ai/dbSNP/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
 | [depmap](https://github.com/biobricks-ai/depmap) | <a href="https://github.com/biobricks-ai/depmap/actions"><img src="https://github.com/biobricks-ai/depmap/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
 | [fda](https://github.com/biobricks-ai/fda) | <a href="https://github.com/biobricks-ai/fda/actions"><img src="https://github.com/biobricks-ai/fda/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
