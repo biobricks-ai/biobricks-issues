@@ -1,6 +1,6 @@
 This repo is for tracking issues across the biobricks-ai organization
 
-| Brick Name | Bricktools Check |
+| Brick | Bricktools Check |
 |------------|------------------|
 | [1000_Genomes](https://github.com/biobricks-ai/1000_Genomes) | <a href="https://github.com/biobricks-ai/1000_Genomes/actions"><img src="https://github.com/biobricks-ai/1000_Genomes/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
 | [chembl](https://github.com/biobricks-ai/chembl) | <a href="https://github.com/biobricks-ai/chembl/actions"><img src="https://github.com/biobricks-ai/chembl/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
