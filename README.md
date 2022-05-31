@@ -2,6 +2,7 @@
 | Brick |  Bricktools Check |
 |------------|----------------------|
 | [1000_Genomes](https://github.com/biobricks-ai/1000_Genomes) | <a href="https://github.com/biobricks-ai/1000_Genomes/actions"><img src="https://github.com/biobricks-ai/1000_Genomes/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>|
+| [bioportal](https://github.com/biobricks-ai/bioportal) | <a href="https://github.com/biobricks-ai/bioportal/actions"><img src="https://github.com/biobricks-ai/bioportal/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
 | [chembl](https://github.com/biobricks-ai/chembl) | <a href="https://github.com/biobricks-ai/chembl/actions"><img src="https://github.com/biobricks-ai/chembl/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
 | [clinvar](https://github.com/biobricks-ai/clinvar) | <a href="https://github.com/biobricks-ai/clinvar/actions"><img src="https://github.com/biobricks-ai/clinvar/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a> |
 | [ctdbase](https://github.com/biobricks-ai/ctdbase) |  <a href="https://github.com/biobricks-ai/ctdbase/actions"><img src="https://github.com/biobricks-ai/ctdbase/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>|
